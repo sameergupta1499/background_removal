@@ -6,7 +6,7 @@ from email.mime.application import MIMEApplication
 cwd = os.getcwd()
 mail_content = ""
 sender_address = 'sameergupta1499@gmail.com'
-sender_pass = '97Reemas97@'
+sender_pass = '##########'
 receiver_address = 'tanya.verma422@gmail.com'
 
 message = MIMEMultipart()
